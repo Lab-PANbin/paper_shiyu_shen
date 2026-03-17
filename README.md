@@ -6,9 +6,9 @@
 [code](https://github.com/Teemo341/ABNN)
 
 ## Preserving Domain Generalization in Fine-Tuning via Joint Parameter Selection
-[paper](open once paper is accepted)
+[paper](accepted but not published yet)
 
-[code](open once paper is accepted)
+[code](https://github.com/Teemo341/JPS)
 
 ## Bayesian Domain Invariant Learning via Posterior Generalization of Parameter Distributions
 [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rNZgWagAAAAJ&citation_for_view=rNZgWagAAAAJ:_kc_bZDykSQC)
