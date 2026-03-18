@@ -13,7 +13,7 @@
 ## Bayesian Domain Invariant Learning via Posterior Generalization of Parameter Distributions
 [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rNZgWagAAAAJ&citation_for_view=rNZgWagAAAAJ:_kc_bZDykSQC)
 
-[code](open once paper is accepted)
+[code]([open once paper is accepted](https://github.com/Teemo341/PTG))
 
 ## A Pretrained Probabilistic Transformer for City-Scale Traffic Volume Prediction
 [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rNZgWagAAAAJ&citation_for_view=rNZgWagAAAAJ:MXK_kJrjxJIC)
