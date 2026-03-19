@@ -18,4 +18,4 @@
 ## A Pretrained Probabilistic Transformer for City-Scale Traffic Volume Prediction
 [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rNZgWagAAAAJ&citation_for_view=rNZgWagAAAAJ:MXK_kJrjxJIC)
 
-[code](open once paper is accepted)
+[code](https://github.com/Teemo341/TrafficPPT)
