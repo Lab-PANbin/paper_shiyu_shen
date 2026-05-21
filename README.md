@@ -1,21 +1,21 @@
 # public code from shenshiyu
 
 ## Be Bayesian by Attachments to Catch More Uncertainty
-[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rNZgWagAAAAJ&citation_for_view=rNZgWagAAAAJ:ULOm3_A8WrAC)
+paper: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rNZgWagAAAAJ&citation_for_view=rNZgWagAAAAJ:ULOm3_A8WrAC
 
-[code](https://github.com/Teemo341/ABNN)
+code: https://github.com/Teemo341/ABNN
 
 ## Preserving Domain Generalization in Fine-Tuning via Joint Parameter Selection
-[paper](accepted but not published yet)
+paper: accepted by TMM but not published yet
 
-[code](https://github.com/Teemo341/JPS)
+code: https://github.com/Teemo341/JPS
 
 ## Bayesian Domain Invariant Learning via Posterior Generalization of Parameter Distributions
-[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rNZgWagAAAAJ&citation_for_view=rNZgWagAAAAJ:_kc_bZDykSQC)
+paper: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rNZgWagAAAAJ&citation_for_view=rNZgWagAAAAJ:_kc_bZDykSQC
 
-[code](https://github.com/Teemo341/PTG)
+code: https://github.com/Teemo341/PTG
 
 ## A Pretrained Probabilistic Transformer for City-Scale Traffic Volume Prediction
-[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rNZgWagAAAAJ&citation_for_view=rNZgWagAAAAJ:MXK_kJrjxJIC)
+paper: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rNZgWagAAAAJ&citation_for_view=rNZgWagAAAAJ:MXK_kJrjxJIC
 
-[code](https://github.com/Teemo341/TrafficPPT)
+code: https://github.com/Teemo341/TrafficPPT
